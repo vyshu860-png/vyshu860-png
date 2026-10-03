@@ -10,7 +10,7 @@ I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning,
 
 - 🎓 B.Tech in CSE – Artificial Intelligence & Machine Learning
 - 🏫 Noida International University
-- 🐍 Strong interest in Python & Machine Learning
+- 🐍 Strong interest in Python,SQL,DSA & Machine Learning 
 - 🤖 Interested in AI, ML, Generative AI & Intelligent Applications
 - 💡 Building practical projects to strengthen my development and ML skills
 - 🚀 Currently improving my  python, DSA, SQL and AI/ML skills
