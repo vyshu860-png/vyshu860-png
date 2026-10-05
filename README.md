@@ -25,6 +25,11 @@
 <img src="https://komarev.com/ghpvc/?username=vyshu860-png&label=PROFILE+VIEWS&color=6a11cb&style=for-the-badge"/>
 
 </div>
+<h1 align="center">Hey, I'm Kunchala Naga Vaishnavi</h1>
+
+<p align="center">
+  <b>B.Tech CSE (AIML) Student | AI/ML | Python | Data Analytics</b>
+</p>
 
 
 
