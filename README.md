@@ -1,5 +1,32 @@
-<h1 align="center">Kunchala Naga Vaishnavi</h1>
-<h3 align="center">B.Tech AIML Student | AI & ML | Python | Generative AI</h3>
+<!-- ===================== HEADER ===================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:8e2de2&height=220&section=header&text=Kunchala%20Naga%20Vaishnavi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A970FF&center=true&vCenter=true&width=750&lines=AI%2FML+Developer+%7C+Python+Developer;Machine+Learning+%7C+Artificial+Intelligence;Building+Practical+AI+Applications;Always+Learning+%7C+Always+Building"/>
+
+<br>
+
+<a href="https://www.linkedin.com/in/kunchala-nagavaishnavi-293659380">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vyshu860-png">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:vyshu867@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=vyshu860-png&label=PROFILE+VIEWS&color=6a11cb&style=for-the-badge"/>
+
+</div>
+
+
 
 🤖 AI/ML Developer | Python | Machine Learning | Artificial Intelligence
 
