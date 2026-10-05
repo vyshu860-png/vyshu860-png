@@ -39,7 +39,7 @@ I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning,
 
 ---
 
-👩‍💻 About Me
+👩‍💻 <h2>👩‍💻 About Me</h2>
 
 - 🎓 B.Tech in CSE – Artificial Intelligence & Machine Learning
 - 🏫 Noida International University
@@ -50,7 +50,8 @@ I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning,
 
 ---
 
-🛠️ Technical Skills
+🛠️ <h2>🛠️ Technical Skills</h2>
+
 
 Programming
 
@@ -84,7 +85,7 @@ Development Tools
 
 ---
 
-🚀 Featured Projects
+ <h2>🚀 Featured Projects</h2>
 
 🏠 House Price Prediction
 
@@ -146,7 +147,8 @@ Skills demonstrated: Game development · Artificial Intelligence · Algorithms �
 
 ---
 
-💼 Experience
+ <h2>💼 Experience</h2>
+
 
 Machine Learning Intern — SkillCraft Technology
 
@@ -172,7 +174,7 @@ Worked on practical Python and AI-based projects including:
 
 ---
 
-📜 Certifications
+ <h2>📜 Certifications</h2>
 
 - 🧠 Microsoft Learn — Machine Learning
 - 💻 Samsung Innovation Campus
@@ -183,8 +185,7 @@ Worked on practical Python and AI-based projects including:
 - 📊 SkillCraft Technology — Machine Learning Internship
 
 ---
-
-🌱 Currently Learning
+<h2>🌱 Currently Learning</h2>
 
 - Data Structures & Algorithms with Python
 - Advanced SQL
@@ -195,8 +196,7 @@ Worked on practical Python and AI-based projects including:
 - AI Application Development
 
 ---
-
-🎯 Career Focus
+<h2>🎯 Career Focus</h2>
 
 I'm interested in building my career in:
 
@@ -231,7 +231,7 @@ AI/ML Development · Machine Learning · Artificial Intelligence · Python Devel
 </p>
 ---
 
-📫 Connect With Me
+📫 <h2 align="center">🤝 Connect With Me</h2>
 
 - 💼 LinkedIn: https://www.linkedin.com/in/kunchala-nagavaishnavi-293659380
 - 💻 GitHub: https://github.com/vyshu860-png
@@ -241,6 +241,6 @@ AI/ML Development · Machine Learning · Artificial Intelligence · Python Devel
 
 💡 “Learning, building, and growing one project at a time.” 🚀
 
-🔧 Technologies & Interests
+🔧 <h2>💡 Technologies & Interests</h2>
 
 "Python" "SQL" "Machine Learning" "Artificial Intelligence" "Pandas" "NumPy" "Scikit-learn" "Streamlit" "Flask" "Git" "GitHub" "DSA"
