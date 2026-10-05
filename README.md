@@ -199,12 +199,31 @@ AI/ML Development · Machine Learning · Artificial Intelligence · Python Devel
 
 ---
 
-📊 GitHub Activity
+<h2>📊 GitHub Analytics</h2>
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=vyshu860-png&show_icons=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vyshu860-png&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=vyshu860-png&layout=compact)
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshu860-png&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
 
+<h2>📈 Contribution Graph</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vyshu860-png&theme=tokyonight"
+    width="100%"
+    alt="GitHub Contribution Graph"
+  />
+</p>
 ---
 
 📫 Connect With Me
