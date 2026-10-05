@@ -1,4 +1,5 @@
-Hi, I'm Kunchala Naga Vaishnavi 👋
+<h1 align="center">Kunchala Naga Vaishnavi</h1>
+<h3 align="center">B.Tech AIML Student | AI & ML | Python | Generative AI</h3>
 
 🤖 AI/ML Developer | Python | Machine Learning | Artificial Intelligence
 
